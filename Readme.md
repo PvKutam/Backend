@@ -1,3 +1,3 @@
  # Backend learning project
 
-Creating this project to learn and explore backend
+Created this project to learn and explore backend
