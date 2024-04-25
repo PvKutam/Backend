@@ -14,3 +14,6 @@ constructor(statusCode,message="error",error=[],stack=""){
     }
     }
 }
+
+
+export {ApiError}
